@@ -515,8 +515,6 @@ void func_6() {
     revisando = false;
 }
 
-
-
 // void loop() {
 //     if (!revisando){
 //         func_6();
